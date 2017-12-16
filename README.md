@@ -11,3 +11,11 @@ Get the price of cryptocurrencies in Google Docs
 5. Back in your Google Sheets doc, you can use the function:
    * `=cryptoPrice("ETH", "EUR")`
    * This will fill in the current price of Ethereum in Euro into the cell
+
+### Feature Requests:
+Create an issue on this repository if you would like to request a feature.
+
+### Tips/Donations:
+Tips and donations appreciated but not required to use this project.
+
+ETH Address: `0xe50B940bAC7b3cC29c7856f46E788dB9e1453593`
